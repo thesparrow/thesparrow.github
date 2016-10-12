@@ -1,7 +1,10 @@
 # Project Details
-Create a template to build an online resume portfolio. Use 
 
-helper.js: created html templates to populate on the view. Contains functions to fit 
+Create a template to build an online resume portfolio. Check out my latest projects and work
+at: https://thesparrow.github.io/.
+ 
+
+helper.js: Created html templates to populate on the view. Contains functions to fit 
 and format the map provided by google api. 
 
 resumeBuilder.js: Contains the javascript objects relating to: profile, education, jobs, and projects. 
